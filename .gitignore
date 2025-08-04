@@ -1,0 +1,15 @@
+#directorios para guardar archivos
+/archivos/*
+/archivos_TC/*
+/archivos_fallas/*
+/archivos_solicitud/*
+/archivos_licencia/*
+/archivos_permiso/*
+/archivos_comisionServicio/*
+
+#directorios con manuales y videos guia para usuarios
+/manuales/*
+/videos/*
+
+#variables de entorno
+/inc/config.env.php
